@@ -13,7 +13,7 @@ Refer to the [apis-mmain_controller_specification](#anchor1) for more details.
 Here is how to install apis-main_controller individually.  
 
 ```bash
-$ git clone https://github.com/SonyCSL/apis-main_controller.git
+$ git clone https://github.com/hyphae/apis-main_controller.git
 $ cd apis-main_controller
 $ python3 -m venv venv
 $ . venv/bin/activate
@@ -41,14 +41,14 @@ $ deactivate
 ```
 <a id="anchor1"></a>
 ## Documentation
-&emsp;[apis-mian_controller_specification(EN)](https://github.com/SonyCSL/apis-main_controller/blob/master/doc/en/apis-main-controller_specification_en.md)  
-&emsp;[apis-mian_controller_specification(JP)](https://github.com/SonyCSL/apis-main_controller/blob/master/doc/jp/apis-main-controller_specification.md)
+&emsp;[apis-mian_controller_specification(EN)](https://github.com/hyphae/apis-main_controller/blob/master/doc/en/apis-main-controller_specification_en.md)  
+&emsp;[apis-mian_controller_specification(JP)](https://github.com/hyphae/apis-main_controller/blob/master/doc/jp/apis-main-controller_specification.md)
 
 
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/oes-github/apis-main-controller/blob/master/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-main-controller/blob/master/LICENSE)
 
 
 ## Notice
-&emsp;[Notice](https://github.com/oes-github/apis-main-controller/blob/master/NOTICE.md)
+&emsp;[Notice](https://github.com/hyphae/apis-main-controller/blob/master/NOTICE.md)
