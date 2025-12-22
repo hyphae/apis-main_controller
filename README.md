@@ -1,4 +1,5 @@
 # apis-main_controller
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/hyphae/apis-main_controller/badge)](https://scorecard.dev/viewer/?uri=github.com/hyphae/apis-main_controller)
 
 ## Introduction
 Main Controller is a web app for real-time display of the status of each node on which apis-main is installed, and the energy sharing status. The information required for display is obtained via the Web API provided by apis-web. It can also change the energy sharing operation mode of the cluster for operation and debugging, and control the DC/DC Converter of each node individually to implement energy sharing. 
