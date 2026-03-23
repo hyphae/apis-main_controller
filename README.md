@@ -42,14 +42,14 @@ $ deactivate
 ```
 <a id="anchor1"></a>
 ## Documentation
-&emsp;[apis-mian_controller_specification(EN)](https://github.com/hyphae/apis-main_controller/blob/master/doc/en/apis-main-controller_specification_en.md)  
-&emsp;[apis-mian_controller_specification(JP)](https://github.com/hyphae/apis-main_controller/blob/master/doc/jp/apis-main-controller_specification.md)
+&emsp;[apis-mian_controller_specification(EN)](https://github.com/hyphae/apis-main_controller/blob/main/doc/en/apis-main-controller_specification_en.md)
+&emsp;[apis-mian_controller_specification(JP)](https://github.com/hyphae/apis-main_controller/blob/main/doc/jp/apis-main-controller_specification.md)
 
 
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-main-controller/blob/master/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-main-controller/blob/main/LICENSE)
 
 
 ## Notice
-&emsp;[Notice](https://github.com/hyphae/apis-main-controller/blob/master/NOTICE.md)
+&emsp;[Notice](https://github.com/hyphae/apis-main-controller/blob/main/NOTICE.md)
