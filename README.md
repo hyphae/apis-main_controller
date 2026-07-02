@@ -16,11 +16,7 @@ Here is how to install apis-main_controller individually.
 ```bash
 $ git clone https://github.com/hyphae/apis-main_controller.git
 $ cd apis-main_controller
-$ python3 -m venv venv
-$ . venv/bin/activate
-$ pip install --upgrade pip
-$ pip install -r requirements.txt
-$ deactivate
+$ bash scripts/venv.sh
 ```
 
 ## Running
@@ -28,8 +24,7 @@ Here is how to run apis-main_controller individually.
 
 ```bash
 $ cd apis-main_controller
-$ . venv/bin/activate
-$ python3 startMain.py
+$ bash scripts/start.sh
 ```
 Go to "0.0.0.0:4382/" in Web browser.
 
@@ -37,8 +32,8 @@ Go to "0.0.0.0:4382/" in Web browser.
 Here is how to stop apis-main_controller individually.  
 
 ```bash
-$ bash stop.sh
-$ deactivate
+$ cd apis-main_controller
+$ bash scripts/stop.sh
 ```
 <a id="anchor1"></a>
 ## Documentation
