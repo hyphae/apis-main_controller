@@ -16,11 +16,7 @@ Here is how to install apis-main_controller individually.
 ```bash
 $ git clone https://github.com/hyphae/apis-main_controller.git
 $ cd apis-main_controller
-$ python3 -m venv venv
-$ . venv/bin/activate
-$ pip install --upgrade pip
-$ pip install -r requirements.txt
-$ deactivate
+$ bash scripts/venv.sh
 ```
 
 ## Running
@@ -28,8 +24,7 @@ Here is how to run apis-main_controller individually.
 
 ```bash
 $ cd apis-main_controller
-$ . venv/bin/activate
-$ python3 startMain.py
+$ bash scripts/start.sh
 ```
 Go to "0.0.0.0:4382/" in Web browser.
 
@@ -37,19 +32,19 @@ Go to "0.0.0.0:4382/" in Web browser.
 Here is how to stop apis-main_controller individually.  
 
 ```bash
-$ bash stop.sh
-$ deactivate
+$ cd apis-main_controller
+$ bash scripts/stop.sh
 ```
 <a id="anchor1"></a>
 ## Documentation
-&emsp;[apis-mian_controller_specification(EN)](https://github.com/hyphae/apis-main_controller/blob/master/doc/en/apis-main-controller_specification_en.md)  
-&emsp;[apis-mian_controller_specification(JP)](https://github.com/hyphae/apis-main_controller/blob/master/doc/jp/apis-main-controller_specification.md)
+&emsp;[apis-mian_controller_specification(EN)](https://github.com/hyphae/apis-main_controller/blob/main/doc/en/apis-main-controller_specification_en.md)
+&emsp;[apis-mian_controller_specification(JP)](https://github.com/hyphae/apis-main_controller/blob/main/doc/jp/apis-main-controller_specification.md)
 
 
 
 ## License
-&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-main-controller/blob/master/LICENSE)
+&emsp;[Apache License Version 2.0](https://github.com/hyphae/apis-main-controller/blob/main/LICENSE)
 
 
 ## Notice
-&emsp;[Notice](https://github.com/hyphae/apis-main-controller/blob/master/NOTICE.md)
+&emsp;[Notice](https://github.com/hyphae/apis-main-controller/blob/main/NOTICE.md)
