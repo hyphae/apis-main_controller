@@ -16,6 +16,9 @@ Here is how to install apis-main_controller individually.
 ```bash
 $ git clone https://github.com/hyphae/apis-main_controller.git
 $ cd apis-main_controller
+# install UV for virtual environment management if not already installed
+$ curl -LsSf https://astral.sh/uv/install.sh | sh
+# if already installed, then just install dependencies
 $ bash scripts/venv.sh
 ```
 
